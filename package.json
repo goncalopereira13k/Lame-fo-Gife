@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "biome": "^0.3.3",
     "polyfill": "^0.1.0",
     "react": "^19.1.1",
     "react-app-polyfill": "^3.0.0",
